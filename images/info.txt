@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Heuristica-Regular
+font link: https://www.fontsquirrel.com/fonts/heuristica
+font author: Andrej Panov
+font author site: 
+
+
+icon designer: Ruben Vh
+icon designer link: /Ruben_Vh
+        
+
+fontColor: {"hex":"#ffffff"}
+bgColor: {"hex":"#0033A0"}
+iconColor: {"hex":"#ffffff"}
+
+      

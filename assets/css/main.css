@@ -2538,6 +2538,9 @@ input, select, textarea {
 		background-size: 100% 6em,					100% 6em,					auto;
 		background-repeat: no-repeat,					no-repeat,					repeat;
 	}
+		#header img {
+			width: 50em;
+		}
 
 		#header h1 {
 			padding: 0 0 2.75em 0;
@@ -2674,7 +2677,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background-image: url("../../images/banner.jpg");
+		background-image: url("../../images/lawn-pic-with-logo.jpg");
 		background-position: center center;
 		background-size: cover;
 		height: 28em;
